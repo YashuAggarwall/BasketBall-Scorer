@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    margin-left: 2px;
+     background-image: url("https://static.vecteezy.com/system/resources/thumbnails/012/809/329/small/indoor-basketball-court-concept-background-free-vector.jpg");
+     background-repeat: no-repeat;
+     background-size: cover; 
+      height: 100vh;
+}
+
+
+.heading{
+    font-size: 37px;
+    font-weight: 900;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    font-weight: bolder;
+    font-size: 18px;
+    border-radius: 15px;
+    /* height: 95vh; */
+}
+
+.team{
+    background: black;
+    height: 25vh;
+    width: 25vw;
+    text-align: center;
+    font-size: 21vh;
+    color: red;
+    font-weight: bolder;   
+    border-radius: 19px;
+}
+
+.team2{ 
+    background: black;
+    height: 25vh;
+    width: 25vw;
+    text-align: center;
+    font-size: 21vh;
+    color: red;
+    font-weight: bolder;
+    border-radius: 19px; }
+
+.btn{
+
+    margin-top: 20px;
+    margin-left: 18px;
+}
+
+.btn1{
+    background-color: #4d5c9c;
+     border-radius: 5px;
+     border: 2px solid white;
+     color: whitesmoke;
+     cursor: pointer;
+     padding: 16px;
+    margin: 32px;
+}
+
+.report{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 106px;
+    color: black;
+    margin-top:50px;
+  
+}
+
+.report-btn{
+    border-radius: 5px;
+    background-color: #4d5c9c;
+    color: whitesmoke;
+    margin: 41px;
+    padding: 12px;
+}
